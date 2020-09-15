@@ -1,0 +1,19 @@
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\bin\Debug\BradyTipTaxTotal.exe.config
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\bin\Debug\BradyTipTaxTotal.exe
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\bin\Debug\BradyTipTaxTotal.pdb
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.Form1.resources
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.Properties.Resources.resources
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.csproj.CoreCompileInputs.cache
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.exe
+C:\Users\Kabrina\Documents\C#\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\bin\Debug\BradyTipTaxTotal.exe.config
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\bin\Debug\BradyTipTaxTotal.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\bin\Debug\BradyTipTaxTotal.pdb
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.csprojAssemblyReference.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.Form1.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.Properties.Resources.resources
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.csproj.GenerateResource.cache
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.exe
+C:\Users\Kabrina\Documents\DMACC\2019-20\FALL 2019\C#\Turned In\Module 3\BradyTipTaxTotal\BradyTipTaxTotal\obj\Debug\BradyTipTaxTotal.pdb
